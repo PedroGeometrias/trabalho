@@ -1,0 +1,18 @@
+{
+  "nome": "joao",
+  "classe": "Mago",
+  "raca": "Elfo",
+  "movimento": 9,
+  "infravisao": 18,
+  "alinhamento": "neutro",
+  "atributos": {
+    "FOR": 8,
+    "DES": 12,
+    "CON": 10,
+    "INT": 17,
+    "SAB": 12,
+    "CAR": 11
+  },
+  "habilidadesRaciaisMask": 60,
+  "humanoJPEscolhida": null
+}

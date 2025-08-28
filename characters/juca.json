@@ -1,0 +1,18 @@
+{
+  "nome": "juca",
+  "classe": "Mago",
+  "raca": "Humano",
+  "movimento": 9,
+  "infravisao": null,
+  "alinhamento": "qualquer",
+  "atributos": {
+    "FOR": 9,
+    "DES": 13,
+    "CON": 11,
+    "INT": 13,
+    "SAB": 12,
+    "CAR": 12
+  },
+  "habilidadesRaciaisMask": 3,
+  "humanoJPEscolhida": null
+}

@@ -1,0 +1,18 @@
+{
+  "nome": "pedro",
+  "classe": "Mago",
+  "raca": "Elfo",
+  "movimento": 9,
+  "infravisao": 18,
+  "alinhamento": "neutro",
+  "atributos": {
+    "FOR": 10,
+    "DES": 14,
+    "CON": 6,
+    "INT": 10,
+    "SAB": 8,
+    "CAR": 16
+  },
+  "habilidadesRaciaisMask": 60,
+  "humanoJPEscolhida": null
+}
